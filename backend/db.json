@@ -39,6 +39,31 @@
       "name": "Notebook Samsung core i3",
       "price": "4898.99",
       "id": 10
+    },
+    {
+      "name": "Chicara Geek",
+      "price": "25.89",
+      "id": 11
+    },
+    {
+      "name": "Mouse Microsoft",
+      "price": "65.99",
+      "id": 12
+    },
+    {
+      "name": "Canera Bic Preta",
+      "price": "3.55",
+      "id": 13
+    },
+    {
+      "name": "Notebook DELL Inspiron Core i7",
+      "price": "8500.99",
+      "id": 14
+    },
+    {
+      "name": "Samsung S20",
+      "price": "7000.99",
+      "id": 15
     }
   ]
 }
