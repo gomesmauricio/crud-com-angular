@@ -12,8 +12,8 @@
     },
     {
       "id": 3,
-      "name": "Samsung S20+",
-      "price": 5000.89
+      "name": "Samsung S20+ Ultra",
+      "price": "7500.20"
     },
     {
       "name": "Geladeira BRASTEMP 380L",
@@ -51,8 +51,8 @@
       "id": 12
     },
     {
-      "name": "Canera Bic Preta",
-      "price": "3.55",
+      "name": "Caneta Bic Preta Básica",
+      "price": "1.50",
       "id": 13
     },
     {
